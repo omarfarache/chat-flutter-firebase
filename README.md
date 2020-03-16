@@ -11,6 +11,8 @@
 
 <h2> Screenshot </h2> 
 
+![](chat.gif)
+<br>
 ![](screenshot1.png)
 <br>
 ![](screenshot2.png)
